@@ -45,6 +45,7 @@ python-daemon>3.0.0
 python-dsv-sdk>=1.0.4
 python-tss-sdk>=1.2.1
 python-ldap
+pyjwt[crypto]
 pyyaml>=6.0.1
 receptorctl
 social-auth-core[openidconnect]==4.3.0  # see UPGRADE BLOCKERs
